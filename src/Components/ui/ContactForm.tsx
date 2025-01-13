@@ -23,6 +23,7 @@ export function ContactForm() {
     setStatus('submitting');
     setErrorMessage('');
 
+    // i should create my form
     try {
       const response = await fetch('https://formspree.io/f/mvggvyar', {
         method: 'POST',

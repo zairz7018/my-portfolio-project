@@ -38,7 +38,7 @@ export function Hero() {
                 Hey! 👋 I'm
               </div>
               <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-blue-600 bg-clip-text text-transparent animate-gradient">
-                Deepak Modi
+                ZAKARYA ZAIR
               </h1>
               <div className="text-xl md:text-2xl text-gray-600 dark:text-gray-300">
                 I'm a <TypeWriter words={roles} delay={100} />
@@ -60,8 +60,8 @@ export function Hero() {
 
             <div className="absolute inset-0 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-full blur-3xl animate-pulse" />
             <img
-              src="/assets/profile.jpg"
-              alt="Deepak Modi"
+              src="/assets/profile2.JPG"
+              alt="Zakarya zair"
               className="relative w-full max-w-lg mx-auto rounded-full shadow-2xl transform hover:scale-105 transition-transform duration-500"
             />
           </div>

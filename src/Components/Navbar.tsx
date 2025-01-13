@@ -50,7 +50,7 @@ export function Navbar() {
               onClick={handleLogoClick}
             >
               <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                DM
+                ZZ
               </span>
             </div>
 
