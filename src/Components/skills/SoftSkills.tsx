@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Brain, Clock, MessageSquare, Users } from 'lucide-react';
 import { SkillCard } from '../ui/SkillCard';
 

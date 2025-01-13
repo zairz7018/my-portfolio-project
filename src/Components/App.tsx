@@ -1,16 +1,16 @@
-import React from 'react';
-import { Navbar } from './components/Navbar';
-import { Hero } from './components/Hero';
-import { About } from './components/About';
-import { Skills } from './components/Skills';
-import { Projects } from './components/Projects';
-import { Experience } from './components/Experience';
-import { Certifications } from './components/Certifications';
-import { Education } from './components/Education';
-import { Contact } from './components/Contact';
-import { Footer } from './components/Footer';
-import { LoadingScreen } from './components/loading/LoadingScreen';
-import { useLoading } from './hooks/useLoading';
+// import React from 'react';
+import { Navbar } from './Navbar';
+import { Hero } from './Hero';
+import { About } from './About';
+import { Skills } from './Skills';
+import { Projects } from './Projects';
+import { Experience } from './Experience';
+import { Certifications } from './Certifications';
+import { Education } from './Education';
+import { Contact } from './Contact';
+import { Footer } from './Footer';
+import { LoadingScreen } from './loading/LoadingScreen';
+import { useLoading } from '../Hooks/useLoading';
 import { Analytics } from '@vercel/analytics/react';
 
 function App() {

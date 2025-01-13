@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { SectionTitle } from './ui/SectionTitle';
 import { EducationCard } from './ui/EducationCard';
 

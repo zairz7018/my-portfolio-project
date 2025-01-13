@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { SectionTitle } from './ui/SectionTitle';
 import { TechnicalSkills } from './skills/TechnicalSkills';
 import { SoftSkills } from './skills/SoftSkills';

@@ -1,7 +1,7 @@
-import React from 'react';
-import { Code2, Database, Globe, Terminal } from 'lucide-react';
+// import React from 'react';
+// import { Code2, Database, Globe, Terminal } from 'lucide-react';
 import { FaReact, FaNodeJs, FaPython, FaJava } from 'react-icons/fa';
-import { SiTypescript, SiMongodb, SiPostgresql, SiCplusplus } from 'react-icons/si';
+import { SiTypescript, SiMongodb } from 'react-icons/si';
 import { SkillCard } from '../ui/SkillCard';
 
 const technicalSkills = [

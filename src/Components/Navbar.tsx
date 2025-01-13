@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Menu, X, FileText } from 'lucide-react';
 import { Link } from './Link';
-import { useTheme } from '../hooks/useTheme';
+import { useTheme } from '../Hooks/useTheme';
 import { ThemeToggle } from './ui/ThemeToggle';
-import { useAnimatedLogo } from '../hooks/useAnimatedLogo';
+import { useAnimatedLogo } from '../Hooks/useAnimatedLogo';
 import { LoadingScreen } from './loading/LoadingScreen';
 
 export function Navbar() {
