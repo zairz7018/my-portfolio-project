@@ -27,9 +27,9 @@
 
 @layer utilities {
   .bg-grid-pattern {
-    @apply [background-size: 24px 24px] 
-           [background-image: linear-gradient(to_right, #6366f1 1px, transparent 1px),
-                             linear-gradient(to_bottom, #6366f1 1px, transparent 1px)];
+    background-size: 24px 24px;
+    background-image: linear-gradient(to right, #6366f1 1px, transparent 1px),
+                      linear-gradient(to bottom, #6366f1 1px, transparent 1px);
   }
 
   .animate-fade-in {
@@ -37,9 +37,11 @@
   }
 
   .animate-gradient {
-    @apply bg-[length: 200% auto] motion-safe:animate-[gradient_8s_linear_infinite];
+    @apply bg-[length:200%_auto] motion-safe:animate-[gradient_8s_linear_infinite];
   }
 }
+
+
 
 @keyframes fade-in {
   from {

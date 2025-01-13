@@ -1,8 +1,8 @@
-import React from 'react';
+// import React from 'react';
 import { Code2, Brain, Trophy, Rocket } from 'lucide-react';
 import { SectionTitle } from './ui/SectionTitle';
-import { AboutCard } from './about/AboutCard';
-import { Stats } from './about/Stats';
+import { AboutCard } from './About/AboutCard';
+import { Stats } from './About/Stats';
 
 export function About() {
   const cards = [
