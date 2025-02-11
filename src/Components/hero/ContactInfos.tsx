@@ -37,7 +37,7 @@ export function ContactInfo() {
       />
       <ContactItem
         icon={<MapPin className="w-5 h-5" />}
-        text="El Jadida / Casa, Moroco"
+        text="El Jadida / CasaBlanca, Moroco"
       />
     </div>
   );

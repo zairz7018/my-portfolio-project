@@ -4,18 +4,18 @@ import { CertificationCard } from './ui/CertificationCard';
 
 const certifications = [
   {
-    title: 'Technical Support Fundamentals',
-    issuer: 'Google',
-    date: 'Dec 2023',
-    link: 'https://coursera.org/share/293a4f79250a4dfdf7ed8174d8538e7b',
-    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=800',
+    title: 'Introduction to DevOps',
+    issuer: 'Coursera',
+    date: 'Janvier 2025',
+    link: 'https://coursera.org/share/26c3ab9e3712722c6e13c92ca0a8db73',
+    image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0VMLDHZGIB98/CERTIFICATE_LANDING_PAGE~0VMLDHZGIB98.jpeg',
   },
   {
-    title: 'Generative AI',
-    issuer: 'Microsoft & LinkedIn',
-    date: 'Nov 2023',
-    link: 'https://www.linkedin.com/learning/certificates/4b0455567c3cfda25e8ef1896c3639f05112af66ace4292ed1004466ef830c94?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bbq8LdPJvRzi4K%2BpLPeklnQ%3D%3D',
-    image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800',
+    title: 'Foundations of Cybersecurity',
+    issuer: 'Coursera',
+    date: 'November 15, 2024',
+    link: 'https://coursera.org/share/6a16fc305ff612991af2734afefd8fc7',
+    image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KDBWOLZ91Z94/CERTIFICATE_LANDING_PAGE~KDBWOLZ91Z94.jpeg',
   },
   {
     title: 'Python 3 Ultimate Guide',

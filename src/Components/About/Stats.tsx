@@ -28,17 +28,17 @@ export function Stats() {
     <div className="grid grid-cols-3 gap-4 max-w-3xl mx-auto">
       <StatItem
         icon={<Code2 className="w-6 h-6" />}
-        value="10+"
+        value="5+"
         label="Projects Completed"
       />
       <StatItem
         icon={<Coffee className="w-6 h-6" />}
-        value="1000+"
+        value="10+"
         label="Cups of Coffee"
       />
       <StatItem
         icon={<Users className="w-6 h-6" />}
-        value="50+"
+        value="4+"
         label="Happy Clients"
       />
     </div>
