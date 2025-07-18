@@ -30,7 +30,7 @@ export function ActionButtons() {
   return (
     <div className="flex flex-wrap gap-2 sm:gap-3 lg:gap-4 justify-center sm:justify-start">
       <ActionButton
-        href="/assets/Deepak_Modi_Resume.pdf"
+        href="/assets/Cv de ZAKARYA ZAIR.pdf"
         icon={<FileText className="w-5 h-5 sm:w-6 sm:h-6" />}
         text="View Resume"
         primary

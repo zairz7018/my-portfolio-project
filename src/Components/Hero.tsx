@@ -9,7 +9,7 @@ import { ActionButtons } from './hero/ActionButtons';
 export function Hero() {
   const roles = [
     "Full-Stack Developer",
-    "DSA Enthusiast",
+    "Front-End Enthusiast",
     "Problem Solver",
     "Content Creator",
     "Tech Innovator",
@@ -60,7 +60,7 @@ export function Hero() {
 
             <div className="absolute inset-0 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-full blur-3xl animate-pulse" />
             <img
-              src="/assets/profile3.png"
+              src="/assets/Profile4.jpg"
               alt="Zakarya zair"
               className="relative w-full max-w-lg mx-auto rounded-full shadow-2xl transform hover:scale-105 transition-transform duration-500"
             />
