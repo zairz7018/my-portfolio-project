@@ -1,30 +1,27 @@
 export const letterPaths = [
-    {
-        id: "Z",
-        path: "M 10 10 Q 15 10 120 10 Q 80 80 10 150 Q 15 150 120 150"
-    },
-    {
-        id: "A",
-        path: "M 130 150 Q 155 50 180 10 Q 205 50 230 150 M 155 100 Q 180 100 205 100"
-    },
-    {
-        id: "K",
-        path: "M 240 150 Q 240 80 240 10 M 240 80 Q 270 45 300 10 M 240 80 Q 270 115 300 150"
-    },
-    {
-        id: "A",
-        path: "M 310 150 Q 335 50 360 10 Q 385 50 410 150 M 335 100 Q 360 100 385 100"
-    },
-    {
-        id: "R",
-        path: "M 420 150 Q 420 80 420 10 Q 445 10 470 10 Q 500 10 500 40 Q 500 70 470 70 Q 445 70 420 70 Q 445 110 470 150"
-    },
-    {
-        id: "Y",
-        path: "M 510 10 Q 535 45 560 80 Q 585 45 610 10 M 560 80 Q 560 115 560 150"
-    },
-    {
-        id: "A",
-        path: "M 620 150 Q 645 50 670 10 Q 695 50 720 150 M 645 100 Q 670 100 695 100"
-    }
+  {
+    id: "H",
+    path: "M10 10 L10 140 M70 10 L70 140 M10 75 L70 75", // Deux verticales + barre horizontale centrale
+    fillDelay: 0.2
+  },
+  {
+    id: "E",
+    path: "M100 10 L100 140 L160 140 M100 75 L150 75 M100 10 L160 10", // Verticale + 3 barres horizontales
+    fillDelay: 0.4
+  },
+  {
+    id: "L1",
+    path: "M190 10 L190 140 L240 140", // Verticale + barre basse
+    fillDelay: 0.6
+  },
+  {
+    id: "L2",
+    path: "M270 10 L270 140 L320 140", // Même chose pour le second L
+    fillDelay: 0.8
+  },
+  {
+    id: "O",
+    path: "M350 10 L400 10 L400 140 L350 140 Z", // Rectangle pour O simple
+    fillDelay: 1.0
+  }
 ];
