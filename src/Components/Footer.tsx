@@ -53,9 +53,9 @@ export function Footer() {
 
           {/* Copyright */}
           <div className="text-sm text-gray-500 dark:text-gray-400 text-center">
-            <p>© {currentYear} Deepak Modi. All rights reserved.</p>
+            <p>© {currentYear} ZAKARYA ZAIR. All rights reserved.</p>
             <p className="flex items-center justify-center gap-1">
-              Made with <span className="text-red-500 animate-pulse">❤️</span> in India
+              Made with <span className="text-red-500 animate-pulse">❤️</span> in Morroco
             </p>
           </div>
         </div>

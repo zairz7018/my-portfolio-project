@@ -4,22 +4,28 @@ import { EducationCard } from './ui/EducationCard';
 
 const education = [
   {
-    degree: 'B.Tech in Computer Science Engineering',
-    institution: 'St. Andrews Institute of Technology and Management, Gurgaon',
-    period: '2022 - 2026',
+    degree: 'Licence Professionnelle en Informatique et Mathématiques Appliquées (IMA)',
+    institution: 'FACULTÉ POLYDISCIPLINAIRE SIDI BENNOUR, Université Chouaib Doukkali, El Jadida',
+    period: '2024 – 2025',
     score: '80%',
   },
   {
-    degree: 'Senior Secondary (XII)',
-    institution: 'Inter Science College, Hazaribagh',
-    period: '2019 - 2021',
-    score: '88%',
+    degree: 'Diplôme de Formation en Présentiel – Codeur Web',
+    institution: 'INSTITUT SUPÉRIEUR DES SCIENCES DE L\'ÉDUCATION ET DU MANAGEMENT (ISSEM), El Jadida',
+    period: '2023 – 2024',
+    score: '80%',
   },
   {
-    degree: 'Secondary (X)',
-    institution: 'St. Paul\'s School, Hazaribagh',
-    period: '2017 - 2019',
-    score: '85.6%',
+    degree: 'Diplôme Technicien Spécialisé en Développement Digital – Option Web Full Stack',
+    institution: 'INSTITUT SPÉCIALISÉ DE TECHNOLOGIE APPLIQUÉE (ISTA), El Jadida',
+    period: '2021 – 2023',
+    score: '90%',
+  },
+  {
+    degree: 'Baccalauréat en Sciences Physiques',
+    institution: 'LYCÉE OKBAH BNO NAFII, Bir Jdid – Casablanca-Settat',
+    period: '2017 – 2020',
+    score: '65%',
   },
 ];
 

@@ -18,11 +18,11 @@ const certifications = [
     image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KDBWOLZ91Z94/CERTIFICATE_LANDING_PAGE~KDBWOLZ91Z94.jpeg',
   },
   {
-    title: 'Python 3 Ultimate Guide',
-    issuer: 'Udemy',
-    date: 'Oct 2023',
-    link: 'https://www.udemy.com/certificate/UC-35cedd32-ccc1-4377-b9ef-e8fabda1f457/',
-    image: 'https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&q=80&w=800',
+    title: 'Introduction to Containers w/ Docker, Kubernetes & OpenShift',
+    issuer: 'Coursera',
+    date: 'February 16, 2025',
+    link: 'https://coursera.org/share/4c49af10a8f6401c5850a17ceefc5cc4',
+    image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~H2LKE3YQZ2HZ/CERTIFICATE_LANDING_PAGE~H2LKE3YQZ2HZ.jpeg',
   },
 ];
 

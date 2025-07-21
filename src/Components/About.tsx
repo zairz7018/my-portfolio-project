@@ -45,7 +45,7 @@ export function About() {
         <div className="max-w-4xl mx-auto mb-16">
           <div className="text-center mb-8">
             <p className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
-            I'm a motivated Full-Stack Developer and final-year student in Licence Professionnelle en Informatique et Mathématiques Appliquées, passionate about building efficient and scalable web solutions. With a solid foundation in web development technologies like ReactJS, PHP, Laravel, and MySQL, I approach each project with a focus on creating high-quality, user-friendly applications. My experience with agile methodologies such as Kanban and Scrum enhances my problem-solving mindset and enables me to deliver impactful results.
+            Computer Science and Applied Mathematics graduate, passionate about building efficient and scalable web solutions. With a strong foundation in technologies such as ReactJS, PHP, Laravel, and MySQL, I focus on delivering high-quality, user-centric applications. My hands-on experience with agile methodologies like Kanban and Scrum strengthens my problem-solving abilities and enables me to contribute effectively to collaborative and fast-paced environments.
             </p>
           </div>
 

@@ -4,17 +4,17 @@ import { Timeline } from './ui/Timeline';
 
 const experiences = [
   {
-    title: 'Full Stack Developer Intern',
-    company: 'Cyberxield Solutions',
-    period: 'Jan 2024 - Feb 2024',
-    description: 'Developing and maintaining web applications using MERN stack. Implemented key features that improved user engagement by 40%.',
+    title: 'Développeur Full Stack – Stage',
+    company: 'Atlanta Sanad',
+    period: 'Avr. 2025 - Juin 2025',
+    description: 'Conçu et développé un portail d’emploi complet pour automatiser les candidatures, le suivi des candidats et la gestion des offres.',
   },
   {
-    title: 'Web Development Lead',
-    company: 'College Tech Club',
-    period: 'Aug 2024 - Present',
-    description: 'Led a team of 4 developers in creating the college event management platform. Mentored junior developers in web technologies.',
-  },
+    title: 'Agent Mailler',
+    company: 'Digital Aigle',
+    period: 'Déc. 2023 - Juin 2024',
+    description: 'Gestion des campagnes d’email marketing, configuration SMTP et mise en place de SPF, DKIM et DMARC.',
+  }
 ];
 
 export function Experience() {

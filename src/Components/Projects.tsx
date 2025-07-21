@@ -4,24 +4,24 @@ import { ProjectCard } from './ui/ProjectCard';
 
 const projects = [
   {
-    title: 'NotesNeo',
-    description: 'A comprehensive semester notes platform for students',
-    image: '/assets/notesneo.png',
+    title: 'EliteHire (Frontend)',
+    description: 'Modern job portal interface allowing candidates to build rich profiles and apply for jobs.',
+    image: '/assets/Asset1.png',
     link: '###',
-    tags: ['React', 'Node.js', 'MongoDB'],
+    tags: ['React', 'TypeScript', 'Tailwind CSS'],
   },
   {
-    title: 'NeoCode',
-    description: 'DSA sheet management and tracking platform',
-    image: '/assets/neocode.png',
-    link: '###',
-    tags: ['TypeScript', 'Next.js', 'PostgreSQL'],
+    title: 'EliteHire (Backend)',
+    description: 'Robust backend API built with Spring Boot handling authentication, job offers, and candidate management',
+    image: '/assets/Asset2.png',
+    link: 'https://github.com/zairz7018/job-Portal-Backend',
+    tags: ['Java', 'Spring Boot', 'MongoDB', 'JWT'],
   },
   {
     title: 'Portfolio',
-    description: 'Personal portfolio website showcasing projects and skills',
-    image: '/assets/portfolio.png',
-    link: '###',
+    description: 'Personal portfolio website showcasing full-stack projects and technical skills.',
+    image: '/assets/Portfolio1.png',
+    link: 'https://github.com/zairz7018/job-portal',
     tags: ['React', 'Tailwind CSS', 'TypeScript'],
   },
 ];
